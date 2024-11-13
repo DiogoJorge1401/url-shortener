@@ -22,7 +22,7 @@ Uma API encurtadora de URL utilizando NestJS com autenticação de usuário e ge
 
 1. Clone o repositório
 2. Copie `.env.example` para `.env` e ajuste os valores se necessário
-3. Execute o aplicativo:
+3. Execute a API:
    ```bash
    docker-compose up
    ```
@@ -53,3 +53,6 @@ Acesse a documentação do Swagger em `http://localhost:3000/api`
 4. Implementar suporte de domínio personalizado
 5. Adicione análises de URL
 6. Implementar expiração de URL
+
+Link para a documentação da api:
+https://url-shortener-production-7c8a.up.railway.app/api
