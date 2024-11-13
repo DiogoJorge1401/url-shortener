@@ -36,7 +36,7 @@ Uma API encurtadora de URL utilizando NestJS com autenticação de usuário e ge
    ```
 3. Copie `.env.example` para `.env` e configure suas variáveis ​​de ambiente
 4. Inicie o banco de dados PostgreSQL
-5. Inicie o aplicativo:
+5. Inicie a API:
    ```bash
    npm run start:dev
    ```
@@ -54,5 +54,5 @@ Acesse a documentação do Swagger em `http://localhost:3000/api`
 5. Adicione análises de URL
 6. Implementar expiração de URL
 
-Link para a documentação da api:
+## Link para a documentação da api:
 https://url-shortener-production-7c8a.up.railway.app/api
