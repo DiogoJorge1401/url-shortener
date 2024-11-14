@@ -45,6 +45,15 @@ Uma API encurtadora de URL utilizando NestJS com autenticação de usuário e ge
 
 Acesse a documentação do Swagger em `http://localhost:3000/api`
 
+## Executando Testes End-to-End
+
+Para executar os testes end-to-end, execute o seguinte comando:
+
+```
+   npm run test:e2e
+
+```
+
 ## Melhorias Futuras
 
 1. Implementar limitação de requisições
